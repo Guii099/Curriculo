@@ -1,0 +1,90 @@
+body {
+    background-color: #61a5c2;
+    margin: 20px;
+    border-radius: 9px;
+    font-size: 20px;
+}
+
+.nome {
+    border-bottom: 2px solid;
+    max-width: 33vh;
+    margin: auto;
+}
+
+.topo {
+    text-align: center;
+    background-color: rgb(131, 213, 245);
+    padding: 20px;
+    border-radius: 8px;
+    border: 2px solid;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.img {
+    max-width: 200px;
+    max-height: 200px;
+    margin: 20px 20px 0px 20px;
+    border-radius: 50%;
+    border: 2px solid;
+}
+
+.tabela {
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 8px;
+    display: table;
+    text-align: center;
+    margin: auto;
+    background-color: #61a5c2;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+.corpo {
+    margin: 20px;
+    padding: 10px;
+    border-radius: 9px;
+    border: 2px solid;
+    text-align: center;
+    background-color: rgb(131, 213, 245);
+    max-width: 1080px;
+}
+
+.xp {
+    margin: 20px;
+    padding: 10px;
+    border-radius: 9px;
+    border: 2px solid;
+    background-color: rgb(131, 213, 245);
+    max-width: 1080px;
+
+}
+
+.ancora {
+    text-align: center;
+}
+
+.rodape {
+    border-radius: 9px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.301);
+    text-align: center;
+    letter-spacing: 1px;
+    border: 2px solid;
+}
