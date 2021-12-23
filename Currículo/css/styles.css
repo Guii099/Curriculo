@@ -73,7 +73,10 @@ a:hover {
     border: 2px solid;
     background-color: rgb(131, 213, 245);
     max-width: 1080px;
+}
 
+.lista{
+    list-style: none;
 }
 
 .ancora {
